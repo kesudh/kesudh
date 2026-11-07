@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="310" viewBox="0 0 360 310" role="img" aria-labelledby="title desc">
+<title id="title">Ideas → Products</title>
+<desc id="desc">Exploratory paths converge into three precise outputs. Explore, build, ship.</desc>
+<rect width="360" height="310" fill="#10120f"/>
+<text x="20" y="35" fill="#edf1e6" font-family="Consolas, monospace" font-size="11" letter-spacing="1.76">KESUDH</text>
+<g font-family="Arial, Helvetica, sans-serif" font-size="37" font-weight="500" letter-spacing="-2.7">
+<text x="20" y="99" fill="#edf1e6">Ideas</text>
+<text x="121" y="99" fill="#c4f06b" letter-spacing="0">→</text>
+<text x="167" y="99" fill="#edf1e6">Products.</text>
+</g>
+<g transform="translate(20 126) scale(0.48484848484848486 0.6086956521739131)">
+<line x1="0" y1="0" x2="0" y2="230" stroke="#2d3528" stroke-width=".5"/>
+<line x1="165" y1="0" x2="165" y2="230" stroke="#2d3528" stroke-width=".5"/>
+<line x1="330" y1="0" x2="330" y2="230" stroke="#2d3528" stroke-width=".5"/>
+<line x1="495" y1="0" x2="495" y2="230" stroke="#2d3528" stroke-width=".5"/>
+<line x1="660" y1="0" x2="660" y2="230" stroke="#2d3528" stroke-width=".5"/>
+<path d="M 0 8 C 130 8.000, 180 237, 304 112.000 S 435 39.1, 574 39.1 L 630 39.1" fill="none" stroke="#c4f06b" stroke-width="0.75" opacity="0.38"/>
+<path d="M 0 15.25 C 130 49.420, 180 229.75, 304 126.798 S 435 41.3, 574 41.3 L 630 41.3" fill="none" stroke="#c4f06b" stroke-width="0.75" opacity="0.38"/>
+<path d="M 0 22.5 C 130 77.721, 180 222.5, 304 139.260 S 435 43.5, 574 43.5 L 630 43.5" fill="none" stroke="#c4f06b" stroke-width="0.75" opacity="0.38"/>
+<path d="M 0 29.75 C 130 84.820, 180 215.25, 304 147.417 S 435 45.7, 574 45.7 L 630 45.7" fill="none" stroke="#c4f06b" stroke-width="0.75" opacity="0.38"/>
+<path d="M 0 37 C 130 70.775, 180 208, 304 149.984 S 435 47.9, 574 47.9 L 630 47.9" fill="none" stroke="#c4f06b" stroke-width="1.8" opacity="1"/>
+<path d="M 0 44.25 C 130 43.762, 180 200.75, 304 146.553 S 435 50.1, 574 50.1 L 630 50.1" fill="none" stroke="#c4f06b" stroke-width="0.75" opacity="0.38"/>
+<path d="M 0 51.5 C 130 16.937, 180 193.5, 304 137.668 S 435 52.3, 574 52.3 L 630 52.3" fill="none" stroke="#c4f06b" stroke-width="0.75" opacity="0.38"/>
+<path d="M 0 58.75 C 130 3.382, 180 186.25, 304 124.730 S 435 54.5, 574 54.5 L 630 54.5" fill="none" stroke="#c4f06b" stroke-width="0.75" opacity="0.38"/>
+<path d="M 0 66 C 130 11.085, 180 179, 304 109.782 S 435 56.7, 574 56.7 L 630 56.7" fill="none" stroke="#c4f06b" stroke-width="0.75" opacity="0.38"/>
+<path d="M 0 73.25 C 130 39.872, 180 171.75, 304 95.184 S 435 58.9, 574 58.9 L 630 58.9" fill="none" stroke="#c4f06b" stroke-width="0.75" opacity="0.38"/>
+<path d="M 0 80.5 C 130 81.475, 180 164.5, 304 83.242 S 435 103.1, 574 103.1 L 630 103.1" fill="none" stroke="#c4f06b" stroke-width="0.75" opacity="0.38"/>
+<path d="M 0 87.75 C 130 122.704, 180 157.25, 304 75.839 S 435 105.3, 574 105.3 L 630 105.3" fill="none" stroke="#c4f06b" stroke-width="0.75" opacity="0.38"/>
+<path d="M 0 95 C 130 150.512, 180 150, 304 74.146 S 435 107.5, 574 107.5 L 630 107.5" fill="none" stroke="#c4f06b" stroke-width="0.75" opacity="0.38"/>
+<path d="M 0 102.25 C 130 157.006, 180 142.75, 304 78.429 S 435 109.7, 574 109.7 L 630 109.7" fill="none" stroke="#c4f06b" stroke-width="0.75" opacity="0.38"/>
+<path d="M 0 109.5 C 130 142.478, 180 135.5, 304 88.012 S 435 111.9, 574 111.9 L 630 111.9" fill="none" stroke="#c4f06b" stroke-width="1.8" opacity="1"/>
+<path d="M 0 116.75 C 130 115.287, 180 128.25, 304 101.382 S 435 114.1, 574 114.1 L 630 114.1" fill="none" stroke="#c4f06b" stroke-width="0.75" opacity="0.38"/>
+<path d="M 0 124 C 130 88.659, 180 121, 304 116.429 S 435 116.3, 574 116.3 L 630 116.3" fill="none" stroke="#c4f06b" stroke-width="0.75" opacity="0.38"/>
+<path d="M 0 131.25 C 130 75.599, 180 113.75, 304 130.776 S 435 118.5, 574 118.5 L 630 118.5" fill="none" stroke="#c4f06b" stroke-width="0.75" opacity="0.38"/>
+<path d="M 0 138.5 C 130 83.906, 180 106.5, 304 142.159 S 435 120.7, 574 120.7 L 630 120.7" fill="none" stroke="#c4f06b" stroke-width="0.75" opacity="0.38"/>
+<path d="M 0 145.75 C 130 113.175, 180 99.25, 304 148.781 S 435 122.9, 574 122.9 L 630 122.9" fill="none" stroke="#c4f06b" stroke-width="0.75" opacity="0.38"/>
+<path d="M 0 153 C 130 154.950, 180 92, 304 149.596 S 435 167.1, 574 167.1 L 630 167.1" fill="none" stroke="#c4f06b" stroke-width="0.75" opacity="0.38"/>
+<path d="M 0 160.25 C 130 195.977, 180 84.75, 304 144.475 S 435 169.3, 574 169.3 L 630 169.3" fill="none" stroke="#c4f06b" stroke-width="0.75" opacity="0.38"/>
+<path d="M 0 167.5 C 130 223.286, 180 77.5, 304 134.227 S 435 171.5, 574 171.5 L 630 171.5" fill="none" stroke="#c4f06b" stroke-width="0.75" opacity="0.38"/>
+<path d="M 0 174.75 C 130 229.177, 180 70.25, 304 120.470 S 435 173.7, 574 173.7 L 630 173.7" fill="none" stroke="#c4f06b" stroke-width="0.75" opacity="0.38"/>
+<path d="M 0 182 C 130 214.171, 180 63, 304 105.376 S 435 175.9, 574 175.9 L 630 175.9" fill="none" stroke="#c4f06b" stroke-width="1.8" opacity="1"/>
+<path d="M 0 189.25 C 130 186.813, 180 55.75, 304 91.327 S 435 178.1, 574 178.1 L 630 178.1" fill="none" stroke="#c4f06b" stroke-width="0.75" opacity="0.38"/>
+<path d="M 0 196.5 C 130 160.390, 180 48.5, 304 80.543 S 435 180.3, 574 180.3 L 630 180.3" fill="none" stroke="#c4f06b" stroke-width="0.75" opacity="0.38"/>
+<path d="M 0 203.75 C 130 147.832, 180 41.25, 304 74.724 S 435 182.5, 574 182.5 L 630 182.5" fill="none" stroke="#c4f06b" stroke-width="0.75" opacity="0.38"/>
+<path d="M 0 211 C 130 156.743, 180 34, 304 74.791 S 435 184.7, 574 184.7 L 630 184.7" fill="none" stroke="#c4f06b" stroke-width="0.75" opacity="0.38"/>
+<path d="M 0 218.25 C 130 186.486, 180 26.75, 304 80.733 S 435 186.9, 574 186.9 L 630 186.9" fill="none" stroke="#c4f06b" stroke-width="0.75" opacity="0.38"/>
+<rect x="637" y="36" width="23" height="26" rx="1" fill="#c4f06b"/>
+<rect x="637" y="100" width="23" height="26" rx="1" fill="#c4f06b"/>
+<rect x="637" y="164" width="23" height="26" rx="1" fill="#c4f06b"/>
+</g>
+<g fill="#9aa590" font-family="Consolas, monospace" font-size="11" letter-spacing=".44">
+<text x="20" y="285">Explore</text>
+<text x="180" y="285" text-anchor="middle">Build</text>
+<text x="340" y="285" text-anchor="end">Ship</text>
+</g>
+</svg>
